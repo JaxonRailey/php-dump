@@ -2,7 +2,7 @@
 Awesome dump with colorful syntax highlighting for analyze any type of var.
 
 
-<img src="https://github.com/JaxonRailey/php-dump/blob/main/dump.jpg?raw=true" width="700" alt="Weather Card" />
+<img src="https://github.com/JaxonRailey/php-dump/blob/main/dump.jpg?raw=true" width="700" alt="PHP dump" />
 
 To use it, just include dump function in your project or include dump.php file.
 
